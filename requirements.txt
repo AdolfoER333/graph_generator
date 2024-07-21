@@ -1,0 +1,5 @@
+pytest
+langchain
+langchain-core
+langchain-experimental
+langchain-ollama
